@@ -174,7 +174,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-one-navy.vercel.app/?username=Nallasivan30&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+    <img src="https://github-profile-trophy-one.vercel.app/?username=Nallasivan30&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
   </a>
 </p>
 
