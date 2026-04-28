@@ -180,10 +180,6 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- CONTRIBUTION GRAPH -->https://github-profile-trophy-one-navy.vercel.app/?username=USERNAME
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
 ## 📈 Contribution Graph
 
 <p align="center">
